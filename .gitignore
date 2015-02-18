@@ -1,0 +1,8 @@
+/node_modules
+/build/*
+/tmp/*
+/.env*
+/server/config/global.json
+/server/cloud/lib/feedback.js
+/test/acceptance/app.html
+/s3.json
