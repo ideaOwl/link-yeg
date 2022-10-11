@@ -1,3 +1,7 @@
+# DO NOT USE #
+
+This project has a number of critical security vulnerabilities, and they aren't being addressed largely because the project is not active anymore and the code is not running anywhere.
+
 ## Link-SF [![Build Status](https://travis-ci.org/zendesk/linksf.svg?branch=master)](https://travis-ci.org/zendesk/linksf) [![Code Climate](https://codeclimate.com/github/zendesk/linksf.png)](https://codeclimate.com/github/zendesk/linksf)
 
 http://link-sf.com
